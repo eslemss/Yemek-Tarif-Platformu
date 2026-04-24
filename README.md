@@ -51,5 +51,5 @@ Platformla etkileşime giren kullanıcıların tanımlandığı ve yetkilendiril
 <img width="1600" height="805" alt="WhatsApp Image 2026-04-24 at 02 02 45" src="https://github.com/user-attachments/assets/ad7f8810-88b1-4b2a-8cda-7e3e894e237e" />
 <img width="690" height="230" alt="WhatsApp Image 2026-04-24 at 02 04 09" src="https://github.com/user-attachments/assets/c8eb06cb-290d-4257-8683-6d0c98a648d6" />
 
-Sistemin arayüzü ve çalışma mantığını gösteren ekran görüntülerini aşağıda inceleyebilirsiniz:
+
 
