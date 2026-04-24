@@ -43,8 +43,10 @@ Platformla etkileşime giren kullanıcıların tanımlandığı ve yetkilendiril
 "🧭 Akıllı Üst Menü (Navbar): Platform içinde dolaşımı kolaylaştıran merkezi navigasyon çubuğu. Yöneticilerin normal site görünümü (Tarifler) ile Yönetim Paneli arasında tek tıkla geçiş yapabilmesi ve güvenli bir şekilde oturumlarını kapatabilmeleri için tasarlanmış sade ve işlevsel bir arayüz bileşenidir."
 <img width="1027" height="84" alt="WhatsApp Image 2026-04-24 at 02 05 40" src="https://github.com/user-attachments/assets/0f868a81-261d-4f75-b271-ff4008841bcc" />
 
-
+"🗂️ Dinamik Kategori Yönetimi (CRUD): Platformdaki tariflerin sınıflandırılmasını sağlayan ve ana sayfa filtreleme altyapısını besleyen kategori yönetim arayüzü. Kategorilerin statik metinler yerine veritabanı üzerinden dinamik olarak çekildiği bu ekranda; yöneticiler yeni kategoriler ekleyebilir, mevcutları düzenleyebilir veya silebilir. Bu yapı, projenin ileride büyümeye açık (scalable) olduğunu gösterir."
 <img width="1600" height="661" alt="WhatsApp Image 2026-04-24 at 02 05 58" src="https://github.com/user-attachments/assets/f4f6b9b1-e3f6-4d98-9dd0-195718440c10" />
+
+
 <img width="896" height="315" alt="WhatsApp Image 2026-04-24 at 02 06 10" src="https://github.com/user-attachments/assets/d203b9fa-9f85-4f19-a0cf-32f006229288" />
 <img width="682" height="441" alt="WhatsApp Image 2026-04-24 at 02 06 20" src="https://github.com/user-attachments/assets/c0c5f44d-df12-4823-beea-05611965dad8" />
 <img width="500" height="183" alt="WhatsApp Image 2026-04-24 at 02 06 35" src="https://github.com/user-attachments/assets/f06fa36c-9d93-4d3d-a0fe-5d1ee9a07303" />
