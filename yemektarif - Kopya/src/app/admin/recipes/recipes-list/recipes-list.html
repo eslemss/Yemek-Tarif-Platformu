@@ -1,0 +1,109 @@
+<div class="container-fluid py-4">
+  <div class="d-flex flex-column flex-md-row justify-content-between align-items-center mb-4 bg-white p-4 rounded-4 shadow-sm border">
+    <div class="mb-3 mb-md-0">
+      <h2 class="fw-bold text-dark mb-1">
+        <i class="bi bi-journal-richtext text-primary me-2"></i>Tarif Yönetimi
+      </h2>
+      <p class="text-muted small mb-0">
+        <span class="badge bg-primary-subtle text-primary rounded-pill">
+          {{ filteredRecipes.length }} / {{ recipes.length }} tarif listeleniyor
+        </span>
+      </p>
+    </div>
+
+    <div class="d-flex flex-column flex-sm-row gap-3 w-100 w-md-auto">
+      <div class="input-group shadow-sm rounded-pill border overflow-hidden bg-light">
+        <span class="input-group-text bg-light border-0 ps-3">
+          <i class="bi bi-search text-muted"></i>
+        </span>
+        <input type="text" 
+               class="form-control border-0 bg-light py-2 ps-1" 
+               placeholder="Tariflerde ara..." 
+               [(ngModel)]="searchText"
+               (input)="onSearch()"
+               style="min-width: 280px; outline: none; box-shadow: none;">
+      </div>
+
+      <button class="btn btn-primary btn-lg rounded-pill px-4 shadow-sm d-flex align-items-center justify-content-center fw-semibold" 
+              [routerLink]="['/admin/main/recipes/create', 0]">
+        <i class="bi bi-plus-lg me-2"></i>Yeni Tarif
+      </button>
+    </div>
+  </div>
+
+  <div class="card border-0 shadow-sm rounded-4 overflow-hidden">
+    <div class="table-responsive">
+      <table class="table table-hover align-middle mb-0">
+        <thead class="bg-primary text-white">
+          <tr>
+            <th class="ps-4 py-3 text-uppercase fs-xs fw-bold" style="width: 120px;">Görsel</th>
+            <th class="py-3 text-uppercase fs-xs fw-bold">Tarif Bilgileri</th>
+            <th class="py-3 text-uppercase fs-xs fw-bold text-center">İşlemler</th>
+          </tr>
+        </thead>
+        <tbody class="bg-white">
+          @for (recipe of filteredRecipes; track recipe.id) {
+          <tr>
+            <td class="ps-4">
+              <div class="position-relative shadow-sm rounded-3 overflow-hidden border bg-light" style="width: 80px; height: 60px;">
+                <img [src]="recipe.imageUrl || 'assets/no-image.png'" 
+                     class="w-100 h-100 object-fit-cover" 
+                     [alt]="recipe.name"
+                     onerror="this.src='https://placehold.co/80x60?text=Resim+Yok'">
+              </div>
+            </td>
+
+            <td>
+              <div class="d-flex flex-column">
+                <span class="fw-bold text-dark fs-6">{{ recipe.name }}</span>
+                <span class="text-muted small text-truncate" style="max-width: 450px;">
+                  {{ recipe.description || 'Açıklama belirtilmemiş.' }}
+                </span>
+              </div>
+            </td>
+<td>
+  <div class="d-flex justify-content-center gap-2">
+    <button class="btn btn-outline-info btn-sm rounded-pill px-3 d-flex align-items-center" 
+            [routerLink]="['/tarif', recipe.id]">
+      <i class="bi bi-eye-fill me-2"></i>
+      <span>Görüntüle</span>
+    </button>
+
+    <button class="btn btn-outline-primary btn-sm rounded-pill px-3 d-flex align-items-center" 
+            [routerLink]="['/admin/main/recipes/edit', recipe.id]">
+      <i class="bi bi-pencil-square me-2"></i>
+      <span>Düzenle</span>
+    </button>
+
+    <button class="btn btn-outline-danger btn-sm rounded-pill px-3 d-flex align-items-center" 
+            (click)="deleteRecipe(recipe)">
+      <i class="bi bi-trash3-fill me-2"></i>
+      <span>Sil</span>
+    </button>
+  </div>
+</td>
+          </tr>
+          } @empty {
+          <tr>
+            <td colspan="3" class="text-center py-5 bg-light">
+              <div class="py-5">
+                <i class="bi bi-card-checklist fs-1 text-muted opacity-50"></i>
+                <p class="mt-3 text-muted fw-bold">Aradığınız kriterde tarif bulunamadı.</p>
+                <button *ngIf="searchText" class="btn btn-link text-primary" (click)="searchText=''; onSearch()">
+                  Aramayı Sıfırla
+                </button>
+              </div>
+            </td>
+          </tr>
+          }
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+  <div class="mt-4">
+    <button class="btn btn-light rounded-pill px-4 border shadow-sm text-muted" routerLink="/shop">
+      <i class="bi bi-house-door me-2"></i>Shop'a Dön
+    </button>
+  </div>
+</div>

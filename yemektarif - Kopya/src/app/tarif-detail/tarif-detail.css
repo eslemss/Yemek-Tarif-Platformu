@@ -1,0 +1,58 @@
+:host {
+    display: block;
+    background-color: #f0f2f5; /* Hafif modern gri arka plan */
+    min-height: 100vh;
+}
+
+.recipe-card {
+    max-width: 1100px; /* Dev ekranda dağılmasın diye sınır koyduk */
+    background: #fff;
+}
+
+/* Kategori Rozeti (Görsel Üstünde) */
+.category-badge {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    background: rgba(255, 255, 255, 0.9);
+    padding: 8px 20px;
+    border-radius: 50px;
+    font-weight: 800;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    color: #0d6efd;
+    backdrop-filter: blur(5px);
+}
+
+/* Başlık Yanındaki Nokta İkonu */
+.dot {
+    height: 10px;
+    width: 10px;
+    background-color: #0d6efd;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+/* Adım Numaraları - Minimalist & Şık */
+.step-number {
+    background-color: #ffffff;
+    color: #000000;
+    width: 35px;
+    height: 35px;
+    min-width: 35px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 800;
+    border: 1px solid #7cbdff;
+}
+
+.object-fit-cover {
+    object-fit: cover;
+}
+
+/* Mobil Uyumluluk Ayarı */
+@media (max-width: 991px) {
+    .border-end { border-end: none !important; border-bottom: 1px solid #dee2e6; }
+}

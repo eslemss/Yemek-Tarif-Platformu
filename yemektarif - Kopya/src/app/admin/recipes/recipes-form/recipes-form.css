@@ -1,0 +1,45 @@
+/* Arka plan yumuşatması */
+.bg-light {
+  background-color: #f8f9fa !important;
+}
+
+/* Kart gölgesi ve geçişler */
+.card {
+  transition: all 0.3s ease;
+}
+
+/* Input odaklanma efekti */
+.form-control:focus, .form-select:focus {
+  background-color: #ffffff !important;
+  box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.15);
+  border: 1px solid #0d6efd !important;
+}
+
+/* Görsel önizleme kutusu */
+.preview-box {
+  height: 250px;
+  position: relative;
+  transition: all 0.4s ease;
+}
+
+.preview-box img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Buton animasyonu */
+.btn-primary {
+  transition: all 0.3s ease;
+  font-weight: 600;
+}
+
+.btn-primary:hover:not(:disabled) {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 20px rgba(13, 110, 253, 0.2) !important;
+}
+
+/* Başlık Gradiyenti */
+.bg-gradient {
+  background: linear-gradient(135deg, #0d6efd 0%, #0a58ca 100%) !important;
+}
