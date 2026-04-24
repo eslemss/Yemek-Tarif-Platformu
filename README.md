@@ -66,9 +66,11 @@ Platformla etkileşime giren kullanıcıların tanımlandığı ve yetkilendiril
 
 <img width="690" height="230" alt="WhatsApp Image 2026-04-24 at 02 04 09" src="https://github.com/user-attachments/assets/fa132dce-2637-4ae9-bb21-50a2e9e4278c" />
 
-
+"⚠️ İşlem Onay Mekanizması: Kritik bir yönetim işlemi olan 'Silme' eyleminden önce kullanıcının kararını doğrulamasını sağlayan arayüz. Yönetim panelinde yanlışlıkla butona basılma ihtimaline karşı, endüstri standartlarına uygun bir kullanıcı deneyimi (UX) hedeflenmiştir."
 
 <img width="1600" height="374" alt="WhatsApp Image 2026-04-24 at 02 04 30" src="https://github.com/user-attachments/assets/f8d28f86-4049-4eb1-ba38-351cb0a96589" />
+
+
 
 <img width="1600" height="794" alt="WhatsApp Image 2026-04-24 at 02 05 02" src="https://github.com/user-attachments/assets/8b20fb70-5012-4727-99a9-c082cf9fc100" />
 
