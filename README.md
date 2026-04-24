@@ -49,8 +49,10 @@ Platformla etkileşime giren kullanıcıların tanımlandığı ve yetkilendiril
 "✏️ Kategori Güncelleme (Update) İşlemi: Sistemdeki mevcut bir yemek kategorisinin adının düzenlendiği yönetim formu. Seçilen kategori bilgisi form alanına otomatik olarak çekilir (Data Binding) ve yapılan değişiklikler veritabanına anlık olarak yansıtılarak, ana sayfadaki dinamik filtreleme menüsünün güncel kalması sağlanır."
 <img width="896" height="315" alt="WhatsApp Image 2026-04-24 at 02 06 10" src="https://github.com/user-attachments/assets/d203b9fa-9f85-4f19-a0cf-32f006229288" />
 
-
+"🚫 Kategori Validasyonu (Form Validation): Veritabanı bütünlüğünü sağlamak amacıyla kategori formlarında uygulanan anlık doğrulama işlemi. Kullanıcının kategori ismine rakam girmesi durumunda, sistem (regex/tip kontrolü ile) bu girişi yakalar ve dinamik bir hata mesajıyla geçersiz kaydın sunucuya iletilmesini engeller."
 <img width="682" height="441" alt="WhatsApp Image 2026-04-24 at 02 06 20" src="https://github.com/user-attachments/assets/c0c5f44d-df12-4823-beea-05611965dad8" />
+
+
 <img width="500" height="183" alt="WhatsApp Image 2026-04-24 at 02 06 35" src="https://github.com/user-attachments/assets/f06fa36c-9d93-4d3d-a0fe-5d1ee9a07303" />
 <img width="621" height="442" alt="WhatsApp Image 2026-04-24 at 02 07 13" src="https://github.com/user-attachments/assets/340db94c-3dc7-4197-b8a8-4438a185b469" />
 <img width="998" height="942" alt="WhatsApp Image 2026-04-24 at 02 07 44" src="https://github.com/user-attachments/assets/f254eb66-eaa4-49fc-a5cf-95eaf6058f64" />
