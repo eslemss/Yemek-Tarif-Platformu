@@ -86,9 +86,11 @@ Platformla etkileşime giren kullanıcıların tanımlandığı ve yetkilendiril
 
 <img width="896" height="315" alt="WhatsApp Image 2026-04-24 at 02 06 10" src="https://github.com/user-attachments/assets/361a573b-9568-478c-b185-6e39117fe93b" />
 
-
+"⚠️ Anlık Hata Yönetimi: Kullanıcının form formatına uymayan veri (örneğin rakam) girmeye çalıştığında karşılaştığı güvenlik önlemi. Sayfa yenilenmeden verilen anlık geri bildirimler sayesinde hem kullanıcı deneyimi artırılmış hem de sistemdeki veri kalitesi korunmuştur."
 
 <img width="682" height="441" alt="WhatsApp Image 2026-04-24 at 02 06 20" src="https://github.com/user-attachments/assets/9df84ef3-63b3-4afd-a7ce-7e0eb61f9c41" />
+
+
 
 <img width="500" height="183" alt="WhatsApp Image 2026-04-24 at 02 06 35" src="https://github.com/user-attachments/assets/08236f6a-16f8-4b7b-8d0b-7d944b64397a" />
 
