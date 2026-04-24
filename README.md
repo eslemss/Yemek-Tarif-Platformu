@@ -39,16 +39,21 @@ Platformla etkileşime giren kullanıcıların tanımlandığı ve yetkilendiril
 <img width="998" height="942" alt="WhatsApp Image 2026-04-24 at 02 07 44" src="https://github.com/user-attachments/assets/0d6ab4b0-987b-4c74-be0d-5fe1ccd2726a" />
 
 "📂 Kapsamlı Tarif Kataloğu: Ziyaretçilerin aradıkları lezzetlere hızlıca ulaşabilmesi için tasarlanmış modern liste görünümü. Her bir tarif kartı; hazırlama süresi, zorluk derecesi ve porsiyon gibi özet bilgileri barındırarak kullanıcıya kolay bir seçim imkanı sunar."
+
 <img width="1258" height="842" alt="WhatsApp Image 2026-04-24 at 01 55 19" src="https://github.com/user-attachments/assets/3983b7af-4a38-426c-80f4-c31260c2be60" />
 
 "🛡️ Yönetim Paneli Erişimi: Platformdaki tarifleri, kategorileri ve sistem ayarlarını kontrol etmek üzere tasarlanmış yönetim paneline güvenli giriş sağlayan ekran. Siteden yönetim paneline geçiş, sade ve kullanıcı dostu bir arayüzle sağlanmıştır."
+
 <img width="546" height="377" alt="WhatsApp Image 2026-04-24 at 01 55 37" src="https://github.com/user-attachments/assets/483a547e-f21f-4652-a90f-2f9374b767bd" />
 
 "❗ Başarısız Giriş ve Uyarı Sistemi: Yönetim paneline yetkisiz veya hatalı bilgilerle erişilmeye çalışıldığında sistemin verdiği tepki. Kullanıcı dostu bir arayüzle, ziyaretçiye sorunun ne olduğu (Kullanıcı adı veya şifre hatası) net bir şekilde iletilmektedir."
+
 <img width="842" height="436" alt="WhatsApp Image 2026-04-24 at 01 55 58" src="https://github.com/user-attachments/assets/bc48c000-fb92-44bc-a60f-b095d8bfa415" />
 
+"📊 Tarif Yönetim Merkezi (Admin Dashboard): Yöneticilerin platformdaki tüm içeriklere tam hakimiyet kurmasını sağlayan gelişmiş panel. Sistemde kayıtlı tüm tariflerin özet görselleriyle listelendiği, anlık arama yapılabildiği ve tek tıkla aksiyon (Görüntüleme, Düzenleme, Silme) alınabildiği modern bir yönetim arayüzü sunar."
 
 <img width="1600" height="779" alt="WhatsApp Image 2026-04-24 at 01 56 21" src="https://github.com/user-attachments/assets/3010d260-2073-4f82-8e8e-e03a2ac25c11" />
+
 
 <img width="1600" height="759" alt="WhatsApp Image 2026-04-24 at 01 56 40" src="https://github.com/user-attachments/assets/7408f574-4750-4e87-9561-33aeb91a61e5" />
 
