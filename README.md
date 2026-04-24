@@ -58,8 +58,11 @@ Platformla etkileşime giren kullanıcıların tanımlandığı ve yetkilendiril
 
 <img width="1600" height="759" alt="WhatsApp Image 2026-04-24 at 01 56 40" src="https://github.com/user-attachments/assets/7408f574-4750-4e87-9561-33aeb91a61e5" />
 
+"📝 Dinamik Tarif Ekleme Formu: Sisteme yeni bir içerik girmek için tasarlanmış, kullanıcı dostu arayüz. Hatalı veya formata uymayan girişlerde anında uyarı veren akıllı form yapısı ve canlı görsel önizleme özelliği sayesinde, veri bütünlüğü ve hatasız içerik yönetimi sağlanmaktadır."
 
 <img width="1600" height="805" alt="WhatsApp Image 2026-04-24 at 02 02 45" src="https://github.com/user-attachments/assets/19a6d7bf-d88b-4e92-b30f-2384b3907712" />
+
+
 
 <img width="690" height="230" alt="WhatsApp Image 2026-04-24 at 02 04 09" src="https://github.com/user-attachments/assets/fa132dce-2637-4ae9-bb21-50a2e9e4278c" />
 
