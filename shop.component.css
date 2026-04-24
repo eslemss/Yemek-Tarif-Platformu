@@ -1,0 +1,65 @@
+.modern-status-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #ffffff; /* Temiz beyaz */
+    padding: 12px 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.04); /* Çok hafif, zarif gölge */
+    border: 1px solid #f1f1f1;
+}
+
+.recipe-count-badge {
+    background: #0d6efd; /* Marka mavisi */
+    color: white;
+    width: 30px;
+    height: 30px;
+    display:block;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    font-weight: bold;
+    font-size: 0.9rem;
+}
+
+.status-title {
+font-size: larger;
+    letter-spacing: 0.3px;
+}
+
+.current-category {
+    background: #f8f9fa;
+    padding: 6px 16px;
+    border-radius: 20px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: #495057;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+}
+
+.dot {
+    height: 8px;
+    width: 8px;
+    background-color: #0d6efd;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 8px;
+    box-shadow: 0 0 8px rgba(13, 110, 253, 0.4);
+}
+.recipe-meta i {
+    font-size: 0.85rem;
+    vertical-align: middle;
+}
+
+.recipe-meta span {
+    display: flex;
+    align-items: center;
+    font-weight: 500;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    transition: transform 0.3s ease;
+}

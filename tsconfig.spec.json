@@ -1,0 +1,15 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "rootDir": "src", // Testler için de ana dizini src olarak sabitleyelim
+    "outDir": "./out-tsc/spec",
+    "types": [
+      "jasmine",
+      "node"
+    ]
+  },
+  "include": [
+    "src/**/*.spec.ts",
+    "src/**/*.d.ts"
+  ]
+}

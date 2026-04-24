@@ -1,0 +1,94 @@
+<app-navbar></app-navbar>
+<div class="container py-5" *ngIf="recipe; else loading">
+  <div class="recipe-card shadow-lg border-0 rounded-5 bg-white mx-auto overflow-hidden animate__animated animate__fadeIn">
+    
+    <div class="row g-0 align-items-stretch border-bottom">
+      <div class="col-md-5 position-relative">
+        <img [src]="recipe.imageUrl" class="img-fluid h-100 w-100 object-fit-cover" 
+             [alt]="recipe.name" style="min-height: 400px;">
+     <div class="category-badge shadow-sm bg-primary text-white px-3 py-1 rounded-pill position-absolute top-0 start-0 m-3">
+  <i class="bi bi-tag-fill me-1"></i> 
+  {{ recipe.category || 'Genel Tarif' }} 
+</div>
+      </div>
+      
+      <div class="col-md-7 p-4 p-lg-5 d-flex flex-column justify-content-center">
+        <h1 class="display-5 fw-bold text-dark mb-3">{{recipe.name}}</h1>
+        <p class="lead text-muted mb-4">{{recipe.description}}</p>
+        
+        <div class="d-flex flex-wrap gap-4 border-top pt-4 mt-2">
+          <div class="text-center">
+            <i class="bi bi-clock-fill text-primary d-block fs-4 mb-1"></i>
+            <small class="text-uppercase fw-bold text-muted" style="font-size: 0.7rem;">Süre</small>
+            <p class="mb-0 fw-bold">{{recipe.prepTime}}</p>
+          </div>
+          <div class="vr"></div>
+          <div class="text-center">
+            <i class="bi bi-reception-3 text-success d-block fs-4 mb-1"></i>
+            <small class="text-uppercase fw-bold text-muted" style="font-size: 0.7rem;">Zorluk</small>
+            <p class="mb-0 fw-bold">{{recipe.difficulty}}</p>
+          </div>
+          <div class="vr"></div>
+          <div class="text-center">
+            <i class="bi bi-person-fill text-warning d-block fs-4 mb-1"></i>
+            <small class="text-uppercase fw-bold text-muted" style="font-size: 0.7rem;">Porsiyon</small>
+            <p class="mb-0 fw-bold">{{recipe.servings}}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="row g-0">
+      <div class="col-lg-4 bg-light p-4 p-lg-5 border-end">
+        <h5 class="fw-bold mb-4 d-flex align-items-center">
+          <span class="dot bg-success me-2"></span> Malzemeler
+        </h5>
+        
+     <div class="instruction-steps">
+  @for (item of recipe.ingredients; track $index) {
+    <div class="ingredient-item mb-3 animate__animated animate__fadeInLeft" [style.animation-delay]="$index * 100 + 'ms'">
+      <div class="d-flex align-items-center">
+        <i class="bi bi-check-circle-fill me-2 text-success"></i>
+        <span class="text-dark">{{ item }}</span>
+      </div>
+    </div>
+  } @empty {
+    <p class="text-muted small italic">Malzeme bilgisi bulunamadı.</p>
+  }
+</div>
+      </div>
+
+      <div class="col-lg-8 p-4 p-lg-5">
+        <h5 class="fw-bold mb-4 d-flex align-items-center">
+          <span class="dot bg-danger me-2"></span> Nasıl Yapılır?
+        </h5>
+        <div class="instruction-steps">
+          @for (step of recipe.instructions; track $index) {
+            <div class="step-box d-flex mb-4 animate__animated animate__fadeInUp">
+              <div class="step-number me-3 shadow-sm">{{ $index + 1 }}</div>
+              <div class="step-text pt-1">
+                <p class="mb-0 text-dark fs-5">{{ step }}</p>
+              </div>
+            </div>
+          }
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="text-center mt-5 mb-5 pb-5">
+    <button routerLink="/shop" class="btn btn-primary btn-lg rounded-pill px-5 py-3 shadow-lg back-button">
+      <i class="bi bi-arrow-left-circle-fill me-2"></i> 
+      <span class="fw-bold">Mutfak Listesine Dön</span>
+    </button>
+  </div>
+</div>
+
+<ng-template #loading>
+  <div class="d-flex flex-column justify-content-center align-items-center" style="height: 70vh;">
+    <div class="spinner-grow text-primary" style="width: 3rem; height: 3rem;" role="status">
+      <span class="visually-hidden">Yükleniyor...</span>
+    </div>
+    <h4 class="mt-4 text-muted fw-light">Şefin özel tarifi hazırlanıyor...</h4>
+  </div>
+</ng-template>
