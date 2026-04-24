@@ -70,9 +70,11 @@ Platformla etkileşime giren kullanıcıların tanımlandığı ve yetkilendiril
 
 <img width="1600" height="374" alt="WhatsApp Image 2026-04-24 at 02 04 30" src="https://github.com/user-attachments/assets/f8d28f86-4049-4eb1-ba38-351cb0a96589" />
 
-
+"👤 Kullanıcı/Admin Arayüzü: Yönetici veya kayıtlı kullanıcıların sisteme giriş yaptıktan sonra siteyi nasıl görüntülediğini gösteren detay ekranı. Dinamik üst menü (Navbar), kullanıcının giriş durumuna göre güncellenmektedir."
 
 <img width="1600" height="794" alt="WhatsApp Image 2026-04-24 at 02 05 02" src="https://github.com/user-attachments/assets/8b20fb70-5012-4727-99a9-c082cf9fc100" />
+
+
 
 <img width="1027" height="84" alt="WhatsApp Image 2026-04-24 at 02 05 40" src="https://github.com/user-attachments/assets/d8c1e93d-ae32-4610-a143-bc4ce773e7f2" />
 
