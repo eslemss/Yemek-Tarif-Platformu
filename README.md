@@ -61,8 +61,10 @@ Platformla etkileşime giren kullanıcıların tanımlandığı ve yetkilendiril
 "🍽️ Tarif Detay Ekranı: Tarif ve Malzeme sınıflarından (sınıf ilişkileri kullanılarak) çekilen verilerin birleştirildiği sayfa. Kullanıcılar bu ekranda tarifin porsiyon, süre ve zorluk bilgilerini görürken, adım adım hazırlanış aşamalarını inceleyebilirler."
 <img width="998" height="942" alt="WhatsApp Image 2026-04-24 at 02 07 44" src="https://github.com/user-attachments/assets/f254eb66-eaa4-49fc-a5cf-95eaf6058f64" />
 
-
+"📂 Kapsamlı Tarif Kataloğu: Ziyaretçilerin aradıkları lezzetlere hızlıca ulaşabilmesi için tasarlanmış modern liste görünümü. Her bir tarif kartı; hazırlama süresi, zorluk derecesi ve porsiyon gibi özet bilgileri barındırarak kullanıcıya kolay bir seçim imkanı sunar."
 <img width="1258" height="842" alt="WhatsApp Image 2026-04-24 at 01 55 19" src="https://github.com/user-attachments/assets/cb46ff98-9cbf-4418-93ea-f705ae5cecbf" />
+
+
 <img width="546" height="377" alt="WhatsApp Image 2026-04-24 at 01 55 37" src="https://github.com/user-attachments/assets/4b766e9b-ebad-4410-95a1-37b4f9d9a206" />
 <img width="842" height="436" alt="WhatsApp Image 2026-04-24 at 01 55 58" src="https://github.com/user-attachments/assets/f967e86f-0c7b-4bb0-9dbb-8a678548defd" />
 <img width="1600" height="779" alt="WhatsApp Image 2026-04-24 at 01 56 21" src="https://github.com/user-attachments/assets/7e7ddc1f-ea7d-454d-b92d-f483a1e6a6de" />
