@@ -38,8 +38,9 @@ Platformla etkileşime giren kullanıcıların tanımlandığı ve yetkilendiril
 
 <img width="998" height="942" alt="WhatsApp Image 2026-04-24 at 02 07 44" src="https://github.com/user-attachments/assets/0d6ab4b0-987b-4c74-be0d-5fe1ccd2726a" />
 
-
+"📂 Kapsamlı Tarif Kataloğu: Ziyaretçilerin aradıkları lezzetlere hızlıca ulaşabilmesi için tasarlanmış modern liste görünümü. Her bir tarif kartı; hazırlama süresi, zorluk derecesi ve porsiyon gibi özet bilgileri barındırarak kullanıcıya kolay bir seçim imkanı sunar."
 <img width="1258" height="842" alt="WhatsApp Image 2026-04-24 at 01 55 19" src="https://github.com/user-attachments/assets/3983b7af-4a38-426c-80f4-c31260c2be60" />
+
 
 <img width="546" height="377" alt="WhatsApp Image 2026-04-24 at 01 55 37" src="https://github.com/user-attachments/assets/483a547e-f21f-4652-a90f-2f9374b767bd" />
 
