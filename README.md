@@ -64,8 +64,10 @@ Platformla etkileşime giren kullanıcıların tanımlandığı ve yetkilendiril
 "📂 Kapsamlı Tarif Kataloğu: Ziyaretçilerin aradıkları lezzetlere hızlıca ulaşabilmesi için tasarlanmış modern liste görünümü. Her bir tarif kartı; hazırlama süresi, zorluk derecesi ve porsiyon gibi özet bilgileri barındırarak kullanıcıya kolay bir seçim imkanı sunar."
 <img width="1258" height="842" alt="WhatsApp Image 2026-04-24 at 01 55 19" src="https://github.com/user-attachments/assets/cb46ff98-9cbf-4418-93ea-f705ae5cecbf" />
 
-
+"🔐 Yönetici (Admin) Giriş Ekranı: Sistemin arka planındaki veri yönetimi ve CRUD (Ekleme, Okuma, Güncelleme, Silme) işlemleri için yetkilendirilmiş kullanıcıların sisteme eriştiği güvenli doğrulama sayfası. Bu ekran, Kullanıcı sınıfı üzerinden kimlik doğrulama (authentication) ve yetkilendirme (authorization) süreçlerinin yönetimini temsil eder."
 <img width="546" height="377" alt="WhatsApp Image 2026-04-24 at 01 55 37" src="https://github.com/user-attachments/assets/4b766e9b-ebad-4410-95a1-37b4f9d9a206" />
+
+
 <img width="842" height="436" alt="WhatsApp Image 2026-04-24 at 01 55 58" src="https://github.com/user-attachments/assets/f967e86f-0c7b-4bb0-9dbb-8a678548defd" />
 <img width="1600" height="779" alt="WhatsApp Image 2026-04-24 at 01 56 21" src="https://github.com/user-attachments/assets/7e7ddc1f-ea7d-454d-b92d-f483a1e6a6de" />
 <img width="1600" height="759" alt="WhatsApp Image 2026-04-24 at 01 56 40" src="https://github.com/user-attachments/assets/4ed05b2d-38e6-4481-a589-48e0a123426e" />
