@@ -62,9 +62,11 @@ Platformla etkileşime giren kullanıcıların tanımlandığı ve yetkilendiril
 
 <img width="1600" height="805" alt="WhatsApp Image 2026-04-24 at 02 02 45" src="https://github.com/user-attachments/assets/19a6d7bf-d88b-4e92-b30f-2384b3907712" />
 
-
+"🗑️ Veri Silme (Delete) ve Sistem Geri Bildirimi: Yönetim panelinden tetiklenen silme işleminin başarıyla sonuçlandığını gösteren doğrulama mesajı. Bu adım, veritabanı bütünlüğünü koruyarak hedeflenen kaydın sistemden güvenli bir şekilde kaldırıldığını kanıtlar ve CRUD döngüsünü tamamlar."
 
 <img width="690" height="230" alt="WhatsApp Image 2026-04-24 at 02 04 09" src="https://github.com/user-attachments/assets/fa132dce-2637-4ae9-bb21-50a2e9e4278c" />
+
+
 
 <img width="1600" height="374" alt="WhatsApp Image 2026-04-24 at 02 04 30" src="https://github.com/user-attachments/assets/f8d28f86-4049-4eb1-ba38-351cb0a96589" />
 
