@@ -78,6 +78,8 @@ Platformla etkileşime giren kullanıcıların tanımlandığı ve yetkilendiril
 
 <img width="1027" height="84" alt="WhatsApp Image 2026-04-24 at 02 05 40" src="https://github.com/user-attachments/assets/d8c1e93d-ae32-4610-a143-bc4ce773e7f2" />
 
+"⚙️ Kategori Kontrol Merkezi: Sitenin ön yüzünde (Frontend) ziyaretçilerin kullandığı kategori menüsünün arka planda yönetildiği liste ekranı. Sistemin modüler yapısı sayesinde, koda müdahale etmeden paneli kullanarak platforma yepyeni mutfak kategorileri dahil edilebilmektedir."
+
 <img width="1600" height="661" alt="WhatsApp Image 2026-04-24 at 02 05 58" src="https://github.com/user-attachments/assets/3646e333-39b7-49b8-b0f6-f9c5d9ba96cb" />
 
 <img width="896" height="315" alt="WhatsApp Image 2026-04-24 at 02 06 10" src="https://github.com/user-attachments/assets/361a573b-9568-478c-b185-6e39117fe93b" />
