@@ -55,8 +55,10 @@ Platformla etkileşime giren kullanıcıların tanımlandığı ve yetkilendiril
 "✅ Veritabanı Senkronizasyonu ve Sistem Geri Bildirimi: Güncelleme (Update) metodunun arka planda hatasız çalıştığını ve yeni verilerin veritabanına başarıyla yazıldığını doğrulayan sistem mesajı. Bu bildirim, istemci (Frontend) ile sunucu (Backend) arasındaki işlemin sorunsuz tamamlandığını yöneticiye anlık olarak iletir."
 <img width="500" height="183" alt="WhatsApp Image 2026-04-24 at 02 06 35" src="https://github.com/user-attachments/assets/f06fa36c-9d93-4d3d-a0fe-5d1ee9a07303" />
 
-
+"➕ Yeni Kategori Ekleme (Create) İşlemi: Sistemin mimarisini dışarıdan koda müdahale etmeden genişletmeye olanak tanıyan veri giriş arayüzü. Veritabanına yeni bir kategori kaydı atan bu form sayesinde, platformun ana sayfasındaki filtreleme menüsüne yepyeni sınıflandırmalar (örneğin: Tatlılar, Yöresel Lezzetler) anında eklenebilir."
 <img width="621" height="442" alt="WhatsApp Image 2026-04-24 at 02 07 13" src="https://github.com/user-attachments/assets/340db94c-3dc7-4197-b8a8-4438a185b469" />
+
+
 <img width="998" height="942" alt="WhatsApp Image 2026-04-24 at 02 07 44" src="https://github.com/user-attachments/assets/f254eb66-eaa4-49fc-a5cf-95eaf6058f64" />
 <img width="1258" height="842" alt="WhatsApp Image 2026-04-24 at 01 55 19" src="https://github.com/user-attachments/assets/cb46ff98-9cbf-4418-93ea-f705ae5cecbf" />
 <img width="546" height="377" alt="WhatsApp Image 2026-04-24 at 01 55 37" src="https://github.com/user-attachments/assets/4b766e9b-ebad-4410-95a1-37b4f9d9a206" />
