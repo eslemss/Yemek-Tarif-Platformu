@@ -44,8 +44,9 @@ Platformla etkileşime giren kullanıcıların tanımlandığı ve yetkilendiril
 "🛡️ Yönetim Paneli Erişimi: Platformdaki tarifleri, kategorileri ve sistem ayarlarını kontrol etmek üzere tasarlanmış yönetim paneline güvenli giriş sağlayan ekran. Siteden yönetim paneline geçiş, sade ve kullanıcı dostu bir arayüzle sağlanmıştır."
 <img width="546" height="377" alt="WhatsApp Image 2026-04-24 at 01 55 37" src="https://github.com/user-attachments/assets/483a547e-f21f-4652-a90f-2f9374b767bd" />
 
-
+"❗ Başarısız Giriş ve Uyarı Sistemi: Yönetim paneline yetkisiz veya hatalı bilgilerle erişilmeye çalışıldığında sistemin verdiği tepki. Kullanıcı dostu bir arayüzle, ziyaretçiye sorunun ne olduğu (Kullanıcı adı veya şifre hatası) net bir şekilde iletilmektedir."
 <img width="842" height="436" alt="WhatsApp Image 2026-04-24 at 01 55 58" src="https://github.com/user-attachments/assets/bc48c000-fb92-44bc-a60f-b095d8bfa415" />
+
 
 <img width="1600" height="779" alt="WhatsApp Image 2026-04-24 at 01 56 21" src="https://github.com/user-attachments/assets/3010d260-2073-4f82-8e8e-e03a2ac25c11" />
 
