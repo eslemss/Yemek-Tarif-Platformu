@@ -67,7 +67,8 @@ Platformla etkileşime giren kullanıcıların tanımlandığı ve yetkilendiril
 "🔐 Yönetici (Admin) Giriş Ekranı: Sistemin arka planındaki veri yönetimi ve CRUD (Ekleme, Okuma, Güncelleme, Silme) işlemleri için yetkilendirilmiş kullanıcıların sisteme eriştiği güvenli doğrulama sayfası. Bu ekran, Kullanıcı sınıfı üzerinden kimlik doğrulama (authentication) ve yetkilendirme (authorization) süreçlerinin yönetimini temsil eder."
 <img width="546" height="377" alt="WhatsApp Image 2026-04-24 at 01 55 37" src="https://github.com/user-attachments/assets/4b766e9b-ebad-4410-95a1-37b4f9d9a206" />
 
-"❗ Başarısız Giriş ve Uyarı Sistemi: Yönetim paneline yetkisiz veya hatalı bilgilerle erişilmeye çalışıldığında sistemin verdiği tepki. Kullanıcı dostu bir arayüzle, ziyaretçiye sorunun ne olduğu (Kullanıcı adı veya şifre hatası) net bir şekilde iletilmektedir."
+"❗ Başarısız Giriş ve Uyarı Sistemi: Yönetim paneline yetkisiz veya hatalı bilgilerle erişilmeye çalışıldığında sistemin verdiği tepki. Kullanıcı dostu bir arayüzle, ziyaretçiye sorunun ne olduğu (Kullanıcı adı veya şifre hatası) net bir şekilde iletilmektedir.
+Admin kullanıcı girişi için kullanıcı adı ve şifresi -> Kullanıcı Adı: admin , Şifre:1234 şeklinde giriş sağlanılmaktadır ." 
 <img width="842" height="436" alt="WhatsApp Image 2026-04-24 at 01 55 58" src="https://github.com/user-attachments/assets/f967e86f-0c7b-4bb0-9dbb-8a678548defd" />
 
 "⚙️ Yönetim Paneli (CRUD İşlemleri): Sistemin omurgasını oluşturan tam kapsamlı kontrol paneli. Proje başında tanımlanan Tarif sınıfına ait tarif_ekle() ve tarif_guncelle() gibi temel metotların kullanıcı arayüzüyle (UI) entegre çalıştığı bu ekranda; listeleme (Read), yeni kayıt (Create), düzenleme (Update) ve silme (Delete) operasyonları tek merkezden yönetilir. Ayrıca dinamik arama çubuğu ile veri setleri içinde hızlı filtreleme yapılabilmektedir."
