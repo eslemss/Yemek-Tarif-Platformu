@@ -70,8 +70,10 @@ Platformla etkileşime giren kullanıcıların tanımlandığı ve yetkilendiril
 "❗ Başarısız Giriş ve Uyarı Sistemi: Yönetim paneline yetkisiz veya hatalı bilgilerle erişilmeye çalışıldığında sistemin verdiği tepki. Kullanıcı dostu bir arayüzle, ziyaretçiye sorunun ne olduğu (Kullanıcı adı veya şifre hatası) net bir şekilde iletilmektedir."
 <img width="842" height="436" alt="WhatsApp Image 2026-04-24 at 01 55 58" src="https://github.com/user-attachments/assets/f967e86f-0c7b-4bb0-9dbb-8a678548defd" />
 
-
+"⚙️ Yönetim Paneli (CRUD İşlemleri): Sistemin omurgasını oluşturan tam kapsamlı kontrol paneli. Proje başında tanımlanan Tarif sınıfına ait tarif_ekle() ve tarif_guncelle() gibi temel metotların kullanıcı arayüzüyle (UI) entegre çalıştığı bu ekranda; listeleme (Read), yeni kayıt (Create), düzenleme (Update) ve silme (Delete) operasyonları tek merkezden yönetilir. Ayrıca dinamik arama çubuğu ile veri setleri içinde hızlı filtreleme yapılabilmektedir."
 <img width="1600" height="779" alt="WhatsApp Image 2026-04-24 at 01 56 21" src="https://github.com/user-attachments/assets/7e7ddc1f-ea7d-454d-b92d-f483a1e6a6de" />
+
+
 <img width="1600" height="759" alt="WhatsApp Image 2026-04-24 at 01 56 40" src="https://github.com/user-attachments/assets/4ed05b2d-38e6-4481-a589-48e0a123426e" />
 <img width="1600" height="805" alt="WhatsApp Image 2026-04-24 at 02 02 45" src="https://github.com/user-attachments/assets/ad7f8810-88b1-4b2a-8cda-7e3e894e237e" />
 <img width="690" height="230" alt="WhatsApp Image 2026-04-24 at 02 04 09" src="https://github.com/user-attachments/assets/c8eb06cb-290d-4257-8683-6d0c98a648d6" />
