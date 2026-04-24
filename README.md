@@ -67,8 +67,10 @@ Platformla etkileşime giren kullanıcıların tanımlandığı ve yetkilendiril
 "🔐 Yönetici (Admin) Giriş Ekranı: Sistemin arka planındaki veri yönetimi ve CRUD (Ekleme, Okuma, Güncelleme, Silme) işlemleri için yetkilendirilmiş kullanıcıların sisteme eriştiği güvenli doğrulama sayfası. Bu ekran, Kullanıcı sınıfı üzerinden kimlik doğrulama (authentication) ve yetkilendirme (authorization) süreçlerinin yönetimini temsil eder."
 <img width="546" height="377" alt="WhatsApp Image 2026-04-24 at 01 55 37" src="https://github.com/user-attachments/assets/4b766e9b-ebad-4410-95a1-37b4f9d9a206" />
 
-
+"❗ Başarısız Giriş ve Uyarı Sistemi: Yönetim paneline yetkisiz veya hatalı bilgilerle erişilmeye çalışıldığında sistemin verdiği tepki. Kullanıcı dostu bir arayüzle, ziyaretçiye sorunun ne olduğu (Kullanıcı adı veya şifre hatası) net bir şekilde iletilmektedir."
 <img width="842" height="436" alt="WhatsApp Image 2026-04-24 at 01 55 58" src="https://github.com/user-attachments/assets/f967e86f-0c7b-4bb0-9dbb-8a678548defd" />
+
+
 <img width="1600" height="779" alt="WhatsApp Image 2026-04-24 at 01 56 21" src="https://github.com/user-attachments/assets/7e7ddc1f-ea7d-454d-b92d-f483a1e6a6de" />
 <img width="1600" height="759" alt="WhatsApp Image 2026-04-24 at 01 56 40" src="https://github.com/user-attachments/assets/4ed05b2d-38e6-4481-a589-48e0a123426e" />
 <img width="1600" height="805" alt="WhatsApp Image 2026-04-24 at 02 02 45" src="https://github.com/user-attachments/assets/ad7f8810-88b1-4b2a-8cda-7e3e894e237e" />
