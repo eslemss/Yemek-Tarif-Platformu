@@ -82,9 +82,11 @@ Platformla etkileşime giren kullanıcıların tanımlandığı ve yetkilendiril
 
 <img width="1600" height="661" alt="WhatsApp Image 2026-04-24 at 02 05 58" src="https://github.com/user-attachments/assets/3646e333-39b7-49b8-b0f6-f9c5d9ba96cb" />
 
-
+"🔧 Kategori Düzenleme Arayüzü: Yöneticilerin mevcut kategori isimlerini hızlıca değiştirebilmesi için tasarlanmış sade form ekranı. İşlemi iptal etmek isteyen kullanıcılar için 'Listeye Dön' butonu ile güvenli navigasyon (routing) imkanı sunulmuştur."
 
 <img width="896" height="315" alt="WhatsApp Image 2026-04-24 at 02 06 10" src="https://github.com/user-attachments/assets/361a573b-9568-478c-b185-6e39117fe93b" />
+
+
 
 <img width="682" height="441" alt="WhatsApp Image 2026-04-24 at 02 06 20" src="https://github.com/user-attachments/assets/9df84ef3-63b3-4afd-a7ce-7e0eb61f9c41" />
 
