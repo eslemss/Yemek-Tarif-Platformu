@@ -90,9 +90,11 @@ Platformla etkileşime giren kullanıcıların tanımlandığı ve yetkilendiril
 
 <img width="682" height="441" alt="WhatsApp Image 2026-04-24 at 02 06 20" src="https://github.com/user-attachments/assets/9df84ef3-63b3-4afd-a7ce-7e0eb61f9c41" />
 
-
+"🔔 Başarılı İşlem Bildirimi: Yöneticinin form üzerinden yaptığı değişikliklerin sisteme başarıyla işlendiğini gösteren onay ekranı. İyi bir kullanıcı deneyimi (UX) ilkesi olarak, kullanıcılar yaptıkları kritik işlemlerin sonuçları hakkında bu şekilde anında bilgilendirilmektedir."
 
 <img width="500" height="183" alt="WhatsApp Image 2026-04-24 at 02 06 35" src="https://github.com/user-attachments/assets/08236f6a-16f8-4b7b-8d0b-7d944b64397a" />
+
+"✨ Kategori Oluşturma Formu: Platformun menü yapısını yönetmek için tasarlanmış sade ve işlevsel admin arayüzü. Kullanıcı dostu bu ekran ile yöneticiler, sisteme saniyeler içinde yeni mutfak kategorileri tanımlayabilir ve iptal durumlarında 'Listeye Dön' butonu ile güvenli navigasyon sağlayabilir."
 
 <img width="621" height="442" alt="WhatsApp Image 2026-04-24 at 02 07 13" src="https://github.com/user-attachments/assets/fd7ea222-bb4c-49c8-bb18-5c58095cea44" />
 
