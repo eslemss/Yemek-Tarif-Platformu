@@ -76,8 +76,10 @@ Platformla etkileşime giren kullanıcıların tanımlandığı ve yetkilendiril
 "🔄 Veri Güncelleme (Update) Ekranı: Tarif sınıfında tanımlanan tarif_guncelle() metodunun arayüzdeki (UI) karşılığıdır. Sistemdeki mevcut bir kaydın çağrılarak form alanlarına doldurulduğu (data binding) bu ekranda yöneticiler; yemeğin temel özelliklerini, Malzeme listesini, yapılış aşamalarını ve görselini tek merkezden kolayca modifiye edebilir."
 <img width="1600" height="759" alt="WhatsApp Image 2026-04-24 at 01 56 40" src="https://github.com/user-attachments/assets/4ed05b2d-38e6-4481-a589-48e0a123426e" />
 
-
+"➕ Yeni Kayıt ve Veri Doğrulama (Create): Tarif sınıfındaki tarif_ekle() metodunun tetiklendiği veri giriş arayüzü. Bu ekranda yalnızca sisteme yeni veri eklenmez; aynı zamanda girilen verilerin tipleri (harf/rakam uyumu) Frontend Validation (Ön Yüz Doğrulaması) ile anlık olarak denetlenerek veritabanına hatalı veya eksik kayıt gitmesi engellenir. Görsel URL'si girildiğinde anında önizleme sunulur."
 <img width="1600" height="805" alt="WhatsApp Image 2026-04-24 at 02 02 45" src="https://github.com/user-attachments/assets/ad7f8810-88b1-4b2a-8cda-7e3e894e237e" />
+
+"✅ İşlem Sonucu ve Kullanıcı Geri Bildirimi: Gerçekleştirilen kritik bir işlemin (veri silme) ardından sistemin verdiği anlık tepki. Yöneticinin yaptığı değişikliğin arka planda başarıyla uygulandığını net bir mesajla (alert) bildirerek güvenilir bir kullanıcı deneyimi sunar."
 <img width="690" height="230" alt="WhatsApp Image 2026-04-24 at 02 04 09" src="https://github.com/user-attachments/assets/c8eb06cb-290d-4257-8683-6d0c98a648d6" />
 
 
