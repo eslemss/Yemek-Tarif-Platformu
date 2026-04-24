@@ -54,8 +54,10 @@ Platformla etkileşime giren kullanıcıların tanımlandığı ve yetkilendiril
 
 <img width="1600" height="779" alt="WhatsApp Image 2026-04-24 at 01 56 21" src="https://github.com/user-attachments/assets/3010d260-2073-4f82-8e8e-e03a2ac25c11" />
 
+"📝 Kapsamlı Tarif Düzenleme Formu: İçerik yönetimini pratikleştirmek için tasarlanmış güncelleme sayfası. Seçilen tarife ait tüm bilgilerin üç modül halinde (Temel Bilgiler, Görsel, Tarif Detayları) derli toplu sunulduğu bu arayüz, yöneticilere hızlı ve güvenli bir veri düzenleme deneyimi sağlar."
 
 <img width="1600" height="759" alt="WhatsApp Image 2026-04-24 at 01 56 40" src="https://github.com/user-attachments/assets/7408f574-4750-4e87-9561-33aeb91a61e5" />
+
 
 <img width="1600" height="805" alt="WhatsApp Image 2026-04-24 at 02 02 45" src="https://github.com/user-attachments/assets/19a6d7bf-d88b-4e92-b30f-2384b3907712" />
 
