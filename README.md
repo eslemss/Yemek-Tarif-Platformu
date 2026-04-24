@@ -36,21 +36,37 @@ Platformla etkileşime giren kullanıcıların tanımlandığı ve yetkilendiril
 ## 📸 Proje Ekran Görüntüleri
 
 <img width="998" height="942" alt="WhatsApp Image 2026-04-24 at 02 07 44" src="https://github.com/user-attachments/assets/0d6ab4b0-987b-4c74-be0d-5fe1ccd2726a" />
+
 <img width="1258" height="842" alt="WhatsApp Image 2026-04-24 at 01 55 19" src="https://github.com/user-attachments/assets/3983b7af-4a38-426c-80f4-c31260c2be60" />
+
 <img width="546" height="377" alt="WhatsApp Image 2026-04-24 at 01 55 37" src="https://github.com/user-attachments/assets/483a547e-f21f-4652-a90f-2f9374b767bd" />
+
 <img width="842" height="436" alt="WhatsApp Image 2026-04-24 at 01 55 58" src="https://github.com/user-attachments/assets/bc48c000-fb92-44bc-a60f-b095d8bfa415" />
+
 <img width="1600" height="779" alt="WhatsApp Image 2026-04-24 at 01 56 21" src="https://github.com/user-attachments/assets/3010d260-2073-4f82-8e8e-e03a2ac25c11" />
+
 <img width="1600" height="759" alt="WhatsApp Image 2026-04-24 at 01 56 40" src="https://github.com/user-attachments/assets/7408f574-4750-4e87-9561-33aeb91a61e5" />
+
 <img width="1600" height="805" alt="WhatsApp Image 2026-04-24 at 02 02 45" src="https://github.com/user-attachments/assets/19a6d7bf-d88b-4e92-b30f-2384b3907712" />
+
 <img width="690" height="230" alt="WhatsApp Image 2026-04-24 at 02 04 09" src="https://github.com/user-attachments/assets/fa132dce-2637-4ae9-bb21-50a2e9e4278c" />
+
 <img width="1600" height="374" alt="WhatsApp Image 2026-04-24 at 02 04 30" src="https://github.com/user-attachments/assets/f8d28f86-4049-4eb1-ba38-351cb0a96589" />
+
 <img width="1600" height="794" alt="WhatsApp Image 2026-04-24 at 02 05 02" src="https://github.com/user-attachments/assets/8b20fb70-5012-4727-99a9-c082cf9fc100" />
+
 <img width="1027" height="84" alt="WhatsApp Image 2026-04-24 at 02 05 40" src="https://github.com/user-attachments/assets/d8c1e93d-ae32-4610-a143-bc4ce773e7f2" />
+
 <img width="1600" height="661" alt="WhatsApp Image 2026-04-24 at 02 05 58" src="https://github.com/user-attachments/assets/3646e333-39b7-49b8-b0f6-f9c5d9ba96cb" />
+
 <img width="896" height="315" alt="WhatsApp Image 2026-04-24 at 02 06 10" src="https://github.com/user-attachments/assets/361a573b-9568-478c-b185-6e39117fe93b" />
+
 <img width="682" height="441" alt="WhatsApp Image 2026-04-24 at 02 06 20" src="https://github.com/user-attachments/assets/9df84ef3-63b3-4afd-a7ce-7e0eb61f9c41" />
+
 <img width="500" height="183" alt="WhatsApp Image 2026-04-24 at 02 06 35" src="https://github.com/user-attachments/assets/08236f6a-16f8-4b7b-8d0b-7d944b64397a" />
+
 <img width="621" height="442" alt="WhatsApp Image 2026-04-24 at 02 07 13" src="https://github.com/user-attachments/assets/fd7ea222-bb4c-49c8-bb18-5c58095cea44" />
+
 
 
 ---
