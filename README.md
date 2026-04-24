@@ -34,8 +34,10 @@ Platformla etkileşime giren kullanıcıların tanımlandığı ve yetkilendiril
 ---
 
 ## 📸 Proje Ekran Görüntüleri
+"🍽️ Tarif Detay Ekranı: Tarif ve Malzeme sınıflarından (sınıf ilişkileri kullanılarak) çekilen verilerin birleştirildiği sayfa. Kullanıcılar bu ekranda tarifin porsiyon, süre ve zorluk bilgilerini görürken, adım adım hazırlanış aşamalarını inceleyebilirler.
 
 <img width="998" height="942" alt="WhatsApp Image 2026-04-24 at 02 07 44" src="https://github.com/user-attachments/assets/0d6ab4b0-987b-4c74-be0d-5fe1ccd2726a" />
+
 
 <img width="1258" height="842" alt="WhatsApp Image 2026-04-24 at 01 55 19" src="https://github.com/user-attachments/assets/3983b7af-4a38-426c-80f4-c31260c2be60" />
 
